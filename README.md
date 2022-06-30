@@ -1,4 +1,4 @@
-# Thesis Dataset
+# Blind Mesh Quality Dataset
 This repository contains the dataset I used for the paper : [Link to the paper]
 
 ## Overall Architecture
