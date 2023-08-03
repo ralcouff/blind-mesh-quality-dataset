@@ -49,6 +49,7 @@ python generate_3D_models.py
 ## Acknowledgements
 Thanks to @tforgione for the help and design of the obj_parser_module.
 
+```
 PyMeshLab
 All rights reserved.
 
@@ -59,3 +60,4 @@ Paolo Cignoni                                                \/)\/
 Visual Computing Lab  http://vcg.isti.cnr.it                /\/|
 ISTI - Italian National Research Council                       |
 Copyright(C) 2020 
+```
