@@ -1,5 +1,13 @@
 # Blind Mesh Quality Dataset
-This repository contains the dataset I used for the paper : [Link to the paper]
+This repository contains the dataset I used for the paper : [Blind Quality of a 3D reconstructed Mesh](https://hal.science/hal-03821315)
+
+```
+Rémy Alcouffe, Simone Gasparini, Geraldine Morin, Sylvie Chambon.
+Blind Quality of a 3D Reconstructed Mesh.
+29th IEEE International Conference on Image Processing (ICIP 2022),
+IEEE, Oct 2022, Bordeaux, France. pp.3406 - 3410,
+⟨10.1109/ICIP46576.2022.9897783⟩. ⟨hal-03821315⟩
+```
 
 ## Overall Architecture
 - `/3D_models` : contains all the models used for my study.
@@ -40,4 +48,14 @@ python generate_3D_models.py
 
 ## Acknowledgements
 Thanks to @tforgione for the help and design of the obj_parser_module.
-I'm using pymeshlab so I should quote them here !
+
+PyMeshLab
+All rights reserved.
+
+VCGLib  http://www.vcglib.net                                 o o
+Visual and Computer Graphics Library                        o     o
+                                                           _   O  _
+Paolo Cignoni                                                \/)\/
+Visual Computing Lab  http://vcg.isti.cnr.it                /\/|
+ISTI - Italian National Research Council                       |
+Copyright(C) 2020 
